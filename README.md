@@ -13,14 +13,4 @@ Simple and compact, ideal for your setup.
 * 8 steps sequencer
 * OSC USB out (still Beta)
 
-<center>
- <iframe width="560" 
-         height="315" 
-         src="https://youtu.be/wst74loTVAc" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
-
+[![](http://img.youtube.com/vi/wst74loTVAc/0.jpg)](http://www.youtube.com/watch?v=wst74loTVAc)
