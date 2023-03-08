@@ -13,5 +13,5 @@ Simple and compact, ideal for your setup.
 * 8 steps sequencer
 * OSC USB out (still Beta)
 
-![video](https://youtu.be/wst74loTVAc)
+<iframe width="889" height="500" src="https://www.youtube.com/embed/wst74loTVAc" title="Arduino USB MIDI CONTROLLER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
